@@ -1,0 +1,17 @@
+{
+	"ulid": "01K19DCP08P32XP2K52TKMBJE8",
+	"minTime": 1753725609664,
+	"maxTime": 1753732800000,
+	"stats": {
+		"numSamples": 248280,
+		"numSeries": 2069,
+		"numChunks": 2069
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01K19DCP08P32XP2K52TKMBJE8"
+		]
+	},
+	"version": 1
+}
