@@ -16,10 +16,6 @@ keys:
     port: 5485
     secret: 0m0IqV4OzhXkTM1ecOylJc
   - cipher: chacha20-ietf-poly1305
-    id: '5'
-    port: 5485
-    secret: kmqB0J2WwMzmCxqf6h8WDI
-  - cipher: chacha20-ietf-poly1305
     id: '6'
     port: 5485
     secret: s3Y2DkGd7NGbo9ftgUynAP
@@ -40,10 +36,6 @@ keys:
     port: 5485
     secret: J3fsxoYOsifvQ0YtguwTWy
   - cipher: chacha20-ietf-poly1305
-    id: '11'
-    port: 5485
-    secret: 0o6MjiudU3z2ONg4Wx9dBd
-  - cipher: chacha20-ietf-poly1305
     id: '12'
     port: 5485
     secret: FW4ADYN9in64Fi18M3gwji
@@ -56,45 +48,17 @@ keys:
     port: 5485
     secret: Ew7Xbns0ASUXp87sOPvHQe
   - cipher: chacha20-ietf-poly1305
-    id: '15'
-    port: 5485
-    secret: JvQxbu3g3OhfW1eOsOrVbP
-  - cipher: chacha20-ietf-poly1305
     id: '16'
     port: 5485
     secret: JFiLfpJIDMBCSvIwHLX7gi
-  - cipher: chacha20-ietf-poly1305
-    id: '17'
-    port: 5485
-    secret: Q7OKtksDHRPm2pNbYDsJ5U
   - cipher: chacha20-ietf-poly1305
     id: '18'
     port: 5485
     secret: mLct2g32xTbjt76r6iHrjy
   - cipher: chacha20-ietf-poly1305
-    id: '19'
-    port: 5485
-    secret: lApgJblm9ae2I1Ua6OdlPO
-  - cipher: chacha20-ietf-poly1305
     id: '20'
     port: 5485
     secret: IT9sWfW9ImFnLD6dhvUO7m
-  - cipher: chacha20-ietf-poly1305
-    id: '21'
-    port: 5485
-    secret: roZR2Zn84ZPfuuN9Tbndxa
-  - cipher: chacha20-ietf-poly1305
-    id: '22'
-    port: 5485
-    secret: MaajZcaKnC5FpZiBhhHDIG
-  - cipher: chacha20-ietf-poly1305
-    id: '23'
-    port: 5485
-    secret: 0i12FDc2LxtVn0Ot53FFUn
-  - cipher: chacha20-ietf-poly1305
-    id: '24'
-    port: 5485
-    secret: 8xXtdp5YHb4GyNKc0B7xlh
   - cipher: chacha20-ietf-poly1305
     id: '25'
     port: 5485
@@ -104,14 +68,6 @@ keys:
     port: 5485
     secret: CBJdX1dJfA06LnIjU8nqWF
   - cipher: chacha20-ietf-poly1305
-    id: '27'
-    port: 5485
-    secret: RZs1jkPWF26Co3wAxm5DkB
-  - cipher: chacha20-ietf-poly1305
-    id: '28'
-    port: 5485
-    secret: K8p2nE5tdHDD8zA31Z4qLA
-  - cipher: chacha20-ietf-poly1305
     id: '29'
     port: 5485
     secret: T2FGro7UiqpfnMlsO5ZGBH
@@ -119,14 +75,6 @@ keys:
     id: '30'
     port: 5485
     secret: dkjgjHS1ivDIPsyfYSFY9I
-  - cipher: chacha20-ietf-poly1305
-    id: '31'
-    port: 5485
-    secret: EuBwocvRjsEfRkasM1Vt0J
-  - cipher: chacha20-ietf-poly1305
-    id: '32'
-    port: 5485
-    secret: l3gu7jFztxJgVL8aZI47rg
   - cipher: chacha20-ietf-poly1305
     id: '33'
     port: 5485
@@ -164,10 +112,6 @@ keys:
     port: 5485
     secret: zmoXRfEmRQmom0vrBOroVd
   - cipher: chacha20-ietf-poly1305
-    id: '42'
-    port: 5485
-    secret: YABeBTerrvwrXULlG8rkWN
-  - cipher: chacha20-ietf-poly1305
     id: '43'
     port: 5485
     secret: Svbqu4TgtWJ9irnp1avAPQ
@@ -179,10 +123,6 @@ keys:
     id: '45'
     port: 5485
     secret: 7S3HzUS1kea1hsY4v3YE9x
-  - cipher: chacha20-ietf-poly1305
-    id: '46'
-    port: 5485
-    secret: lgVH2BCAkjlEHQnB52hI7r
   - cipher: chacha20-ietf-poly1305
     id: '47'
     port: 5485
